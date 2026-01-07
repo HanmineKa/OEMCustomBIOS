@@ -1,2 +1,2 @@
 # unlocked-oem-bios
-still in progress
+still not ready lol
