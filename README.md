@@ -56,16 +56,18 @@ This project focuses on the latest updates to BIOS components (depending on the 
    - TXEInfo -verbose
 
 ### Related GUIDE
-  - MODGRUB/RU.EFI use case : https://github.com/dreamwhite/bios-extraction-guide
-  - CH341A (FP) : https://winraid.level1techs.com/t/guide-using-ch341a-based-programmer-to-flash-spi-eeprom/30834
-  - Intel Management Engine Introduction : https://winraid.level1techs.com/t/intel-cs-management-engine-drivers-firmware-and-tools-2-15/30719
+  - MODGRUB/RU.EFI use case: https://github.com/dreamwhite/bios-extraction-guide
+  - CH341A/B (FP): https://winraid.level1techs.com/t/guide-using-ch341a-based-programmer-to-flash-spi-eeprom/30834
+  - Intel Management Engine Introduction: https://winraid.level1techs.com/t/intel-cs-management-engine-drivers-firmware-and-tools-2-15/30719
+  - Intel Trusted Execution Engine Introduction: https://winraid.level1techs.com/t/intel-conv-sec-trusted-execution-engine-drivers-firmware-and-tools/30730
+
   
 ### Related Tool 
- - UEFITool NE : https://github.com/LongSoft/UEFITool
- - UEFITool v25 : https://github.com/LongSoft/UEFITool/releases/tag/0.25.0
- - IFR Extractor : https://github.com/LongSoft/Universal-IFR-Extractor
- - GRUBMOD : https://github.com/datasone/grub-mod-setup_var
- - HxD : https://mh-nexus.de/en/hxd/
+ - UEFITool NE: https://github.com/LongSoft/UEFITool
+ - UEFITool v25: https://github.com/LongSoft/UEFITool/releases/tag/0.25.0
+ - IFR Extractor: https://github.com/LongSoft/Universal-IFR-Extractor
+ - GRUBMOD: https://github.com/datasone/grub-mod-setup_var
+ - HxD: https://mh-nexus.de/en/hxd/
 
 ***
 
