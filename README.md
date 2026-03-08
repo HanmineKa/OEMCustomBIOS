@@ -5,7 +5,7 @@
 [![ubu](https://img.shields.io/badge/UEFI%20BIOS%20Updater-001f3f)](https://winraid.level1techs.com/t/tool-guide-news-uefi-bios-updater-ubu/30357)
 [![rebaruefi](https://img.shields.io/badge/github-ReBarUEFI-800000?logo=github)](https://github.com/xCuri0/ReBarUEFI)
 [![NvStrapsRebar](https://img.shields.io/badge/github-NvStrapsReBar-06470C?logo=github)](https://github.com/terminatorul/NvStrapsReBar)
-[![device](https://img.shields.io/badge/Device-List-00BFFF)](https://github.com/HanmineKa/OEMCustomBIOS/blob/main/Device.md)
+[![device](https://img.shields.io/badge/Device-List-00BFFF)](https://github.com/HanmineKa/OEMCustomBIOS/blob/main/DEVICE.md)
  
 This project focuses on the latest updates to BIOS components (depending on the date the mod was made), disabling flash protection, adding new features Resizable Bar from ReBarUEFI/NvStrapsRebar, and unlocking hidden menus.
 
@@ -18,7 +18,7 @@ This project focuses on the latest updates to BIOS components (depending on the 
 > 
 > This repository is mainly intended for those who understand what they are doing. It’s not the same as messing around with a driver that you can easily revert. **IF YOU MAKE A MISTAKE WHILE TRANSFERRING YOUR DATA TO THE MOD IMAGE OR WHILE FLASHING THE BIOS, YOU MAY END UP WITH A DEAD DEVICE UNTIL YOU RECOVER IT USING FLASHPROG**.
 >
-> Before flashing the BIOS you must transfer all of your data first (MAC,UUID, WinKey, etc.), Otherwise you will lose it or having problem with LAN, etc.
+> Before flashing the BIOS you must transfer all of your data first (MAC, UUID, WinKey, etc.), Otherwise you will lose it or having problem with LAN, etc.
 >  
 > **-- YOU HAVE BEEN WARNED --**
 
@@ -50,6 +50,10 @@ This project focuses on the latest updates to BIOS components (depending on the 
 ### MEInfo
  - *Command*
    - MEInfo -verbose
+
+### TXEInfo
+ - *Command*
+   - TXEInfo -verbose
 
 ### Related GUIDE
   - MODGRUB/RU.EFI use case : https://github.com/dreamwhite/bios-extraction-guide
