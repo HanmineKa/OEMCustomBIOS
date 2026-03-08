@@ -1,26 +1,44 @@
+<h1 align="center">OEMCustomBIOS</h1>
+
+<div align="center">
+ 
+[![ubu](https://img.shields.io/badge/UEFI%20BIOS%20Updater-001f3f)](https://winraid.level1techs.com/t/tool-guide-news-uefi-bios-updater-ubu/30357)
+[![rebaruefi](https://img.shields.io/badge/github-ReBarUEFI-800000?logo=github)](https://github.com/xCuri0/ReBarUEFI)
+[![NvStrapsRebar](https://img.shields.io/badge/github-NvStrapsReBar-06470C?logo=github)](https://github.com/terminatorul/NvStrapsReBar)
+[![device](https://img.shields.io/badge/Device-List-00BFFF)](https://github.com/HanmineKa/OEMCustomBIOS/blob/main/Device.md)
+ 
+This project focuses on the latest updates to BIOS components (depending on the date the mod was made), disabling flash protection, adding new features Resizable Bar from ReBarUEFI/NvStrapsRebar, and unlocking hidden menus.
+
+</div>
+
+***
+
 > [!WARNING]
 > I'm not responsible nor give a warranty for bricking/losing your data as they're no a "**SAFE**" word in firmware mod world.
 > 
-> This repo was mainly for those that understanding what they're doing, It's not same thing like messing around with driver that you can easily revert it back, **IF YOU'RE DOING IT WRONG WHILE TRANSFERRING YOUR DATA TO THE MOD IMAGE NOR WHILE FLASHING THE BIOS, YOU WILL END UP WITH DEATH DEVICE UNTIL RECOVERY IT USING FLASHPROG**.
+> This repository is mainly intended for those who understand what they are doing. It’s not the same as messing around with a driver that you can easily revert. **IF YOU MAKE A MISTAKE WHILE TRANSFERRING YOUR DATA TO THE MOD IMAGE OR WHILE FLASHING THE BIOS, YOU MAY END UP WITH A DEAD DEVICE UNTIL YOU RECOVER IT USING FLASHPROG**.
 >
-> Before flashing the BIOS you must transfer all of your data first (MAC,UUID, WinKey, etc.), Otherwise you will lose it or having problem with LAN and RGB keyboard function
+> Before flashing the BIOS you must transfer all of your data first (MAC,UUID, WinKey, etc.), Otherwise you will lose it or having problem with LAN, etc.
 >  
 > **-- YOU HAVE BEEN WARNED --**
 
 > [!IMPORTANT]
-> You can't flash the BIOS from this repo the sameway using official vendor method, either you will be to use **Flash Programming Tool (FPT) "INTEL"** or **Flash Programmer (FP) "INTEL/AMD"**.
+> You can't flash the BIOS from this repo the sameway using official vendor method, either you will be to use **Flash Programming Tool (FPT) "INTEL"** or **Flash Programmer (FP) "INTEL/AMD"** or **BIOS FlashBack or similiar**.
 > 
 > This repo does not cover how to transfer data, as each device has a different approach. It also does not cover recovering bricked devices. Search for this information yourself.
 
-***
-
-## OEMCustomBios
-This project focuses on the latest updates to BIOS components (depending on the date the mod was made), disabling flash protection, adding new features, and unlocking hidden menus.
-
 > [!TIP]
-> Both of this tool requires administrator permission
+> Both FPT and MEInfo/TXEInfo requires administrator permission.
 > 
-> Disable BIOS LOCK and FPRR LOCK using GRUBMOD or RU.EFI before flashing the BIOS mod.
+> Make sure the BIOS currently installed is the same version as the mod, to avoid an EC version mismatch.
+> 
+> Disable BIOS Lock and FPRR Lock using GRUBMOD or RU.EFI before flashing the BIOS mod.
+>
+> If FPT still encounters error 167, it means the device is configured with FLOCKDN. In this case, only the FP method can be used.
+> 
+> Disable Device Encryption/BitLocker.
+
+***
 
 ### INTEL Flash Programming Tool (FPT)
  - *Backup*
