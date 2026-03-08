@@ -1,6 +1,4 @@
-***
-| 🔴 - Lmao "**NO**" | 🟠 - Not Tested | 🟡 - Need Special Attention | 🟢 - Worked |
-***
+<h1 align="center">| 🔴 - Lmao "**NO**" | 🟠 - Not Tested | 🟡 - Need Special Attention | 🟢 - Worked |</h1>
 
 ### Acer
 | ⚙️ Model | 📦 Version | 🔧 Status |
@@ -57,5 +55,6 @@
 | ⚙️ Model | 📦 Version | 🔧 Status |
 |--------|--------|--------|
 | [MAG Infinite S 10th](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-MIS10_830-MSI) | 830 | 🟢 |
+| [Infinite S 9th](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-MIS9_820-MSI) | 820 | 🟢 |
 
 ***
