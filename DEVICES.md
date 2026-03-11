@@ -17,6 +17,7 @@
 | [TUF F15 FX506LH](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-F15LH_310-ASUS) | 310 | 🟢 |
 | [TUF F15 FX506LI](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-F15LI_310-ASUS) | 310 | 🟢 |
 | [TUF F15 FX506HC](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FP-F15HC_316-ASUS) | 316 | 🟢 |
+| [TUF FX505GT](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-F05GT_311-ASUS) | 311 | 🟢 |
 | [ROG Strix G531GT](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-STX_G531GT-ASUS) | - | 🟢 |
 | [X550VX - 6th](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-VX_550-ASUS) | 305 | 🟢 |
 | [X550VXK - 7th](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-VX_550-ASUS) | 307 | 🟢 |
@@ -26,7 +27,7 @@
 ### CLEVO
 | ⚙️ Model | 📦 Version | 🔧 Status |
 |--------|--------|--------|
-| [W950JU](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-950_511-CLEVO) | 511 | 🟢 |
+| [W950JU](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-950_511-CLEVO) | - | 🟢 |
 
 ***
 
