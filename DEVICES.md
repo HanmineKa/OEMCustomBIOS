@@ -21,6 +21,7 @@
 | [ROG Strix G531GT](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-STX_G531GT-ASUS) | - | 🟢 |
 | [X550VX - 6th](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-VX_550-ASUS) | 305 | 🟢 |
 | [X550VXK - 7th](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-VX_550-ASUS) | 307 | 🟢 |
+| [VivoBook Flip 14 TP420IA](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FP-TPIA_305-ASUS) | 305 | 🟢 |
 
 ***
 
