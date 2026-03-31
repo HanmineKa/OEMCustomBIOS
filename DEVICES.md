@@ -31,7 +31,7 @@
 | ⚙️ Model | 📦 Version | 🔧 Status |
 |--------|--------|--------|
 | [W950JU](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-950_511-CLEVO) | - | 🟢 |
-| [N750BU](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-750BU_1.07.18TWO3-CLEVO) | 1.07.18TWO3 | 🟢 |
+| [N750BU/N751BU](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-750BU_1.07.18TWO3-CLEVO) | 1.07.18TWO3 | 🟢 |
 
 ***
 
