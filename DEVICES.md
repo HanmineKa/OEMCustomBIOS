@@ -19,7 +19,7 @@
 | [TUF F15 FX506HC](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FP-F15HC_316-ASUS) | 316 | 🟢 |
 | [TUF A15 FA506IH](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FP-A15IH_316-ASUS) | 316 | 🟢 |
 | [TUF Gaming FX505GT](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-F05GT_311-ASUS) | 311 | 🟢 |
-| [TUF Gaming FX505DY](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-F05DY_315-ASUS) | 315 | 🟠 |
+| [TUF Gaming FX505DY](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-F05DY_315-ASUS) | 315 | 🔴 |
 | [ROG Strix G531GT](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-STX_G531GT-ASUS) | - | 🟢 |
 | [X550VX - 6th](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-VX_550-ASUS) | 305 | 🟢 |
 | [X550VXK - 7th](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-VX_550-ASUS) | 307 | 🟢 |
