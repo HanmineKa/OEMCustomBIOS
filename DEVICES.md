@@ -55,6 +55,7 @@
 | [IdeaPad Gaming 3 15IMH05](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-IG3.15I_EGCN41WW-Lenovo) | EGCN41WW | 🟢 |
 | [IdeaPad L340-15IRH Gaming](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-IPL3_BGCN36WW-Lenovo) | BGCN36WW | 🟢 |
 | [Legion Y540-15IRH](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FP-LG40_BHCN45WW-Lenovo) | BHCN45WW | 🟢 |
+| [ThinkCentre M75q Gen 2](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FP-M75Q_GEN2-LENOVO) | - | 🟠 |
 
 ***
 
