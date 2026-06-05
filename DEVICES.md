@@ -21,7 +21,7 @@
 | [TUF Gaming FX505GT](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-F05GT_311-ASUS) | 311 | 🟢 |
 | [TUF Gaming FX505DY](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-F05DY_315-ASUS) | 315 | 🟠 |
 | [ROG Strix G531GT](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-STX_G531GT-ASUS) | - | 🟢 |
-| [ROG Strix GL702ZC](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FP-STX_GL702ZC-ASUS) | - | 🟠 |
+| [ROG Strix GL702ZC](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FP-STX_GL702ZC-ASUS) | 306 | 🟠 |
 | [X550VX - 6th](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-VX_550-ASUS) | 305 | 🟢 |
 | [X550VXK - 7th](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FPT-VX_550-ASUS) | 307 | 🟢 |
 | [VivoBook Flip 14 TP420IA](https://github.com/HanmineKa/OEMCustomBIOS/releases/tag/FP-TPIA_305-ASUS) | 305 | 🟢 |
